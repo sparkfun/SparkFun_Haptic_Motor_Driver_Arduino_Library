@@ -11,21 +11,20 @@ Repository Contents
 
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
 * **/src** - Source files for the library (.cpp, .h).
-* **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
 * **library.properties** - General library properties for the Arduino package manager. 
 
 Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](GitHub Product URL)** - Main repository (including hardware files) for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[Product Repository](https://github.com/sparkfun/Haptic_Motor_Driver)** - Main repository (including hardware files) for the <Haptic Motor Driver>.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/haptic-motor-driver-hook-up-guide?_ga=1.65538670.1788647015.1453914745)** - Basic hookup guide for the <Haptic Motor Driver>.
 
 Products that use this Library 
 ---------------------------------
 
-* [Part SKU](SparkFun part URL)- Basic part and short description here
-* [Part SKU](SparkFun part URL)- Basic part and short description here
+* [ROB-14031](https://www.sparkfun.com/products/14031?_ga=1.59525741.1788647015.1453914745)- Haptic Motor Driver
+
 
 Version History
 ---------------
