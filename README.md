@@ -1,10 +1,10 @@
 SparkFun <PRODUCT NAME> Arduino Library
 ========================================
-![SparkFun DRV2605L Haptic Motor Driver](https://cdn.sparkfun.com/assets/parts/1/1/8/4/7/14031-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/1/8/4/7/14031-01.jpg) <-)
+![SparkFun DRV2605L Haptic Motor Driver](https://cdn.sparkfun.com/assets/parts/1/1/8/4/7/14031-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/1/8/4/7/14031-01.jpg) 
 
 [*SparkFun Haptic Motor Driver  (ROB-14031)*](https://www.sparkfun.com/products/14031)
 
-<Basic description of the library.>
+<Library for the DRV2605L.>
 
 Repository Contents
 -------------------
